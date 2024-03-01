@@ -7,4 +7,4 @@ Step 3:-
 Then, Run the code using The Liveserver
 Step 4:-
 Then, the output will be shown in your Browser....
-Steop 4
+Step 5:-
